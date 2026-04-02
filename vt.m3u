@@ -4,8 +4,6 @@
 
 **********US-TV**********
 
-#EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
-
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="",A
 http://supersonictv.live:8080/611366/682256/22001
 
