@@ -1,3 +1,12 @@
+#EXTM3U billed-msg="M3U PLAYLIST BY: Leedonghyun008"
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, 
+https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+
 #EXTM3U url-tvg="[XML_EPG]"
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-
 1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Live TV (MoveOnJoy)" streamId="0" channel-number="0",ABC East
