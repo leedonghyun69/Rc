@@ -7,6 +7,8 @@ https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,
 https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, 
 https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/E7lFwlD.png"
@@ -14,7 +16,7 @@ https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FM2PYtf.png",Boomerang US
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SoGxadL.png",Cartoon Network US Eastern Feed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SoGxadL.png",Cartoon Network US Eastern
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SHIscQO.png",Comedy Central US Eastern Feed
