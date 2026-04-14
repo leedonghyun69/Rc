@@ -28,6 +28,8 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-logo="",HBO USA
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
+http://41.205.93.154/DISNEY-CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVFdbfV.png",Nickelodeon USA East Feed
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
