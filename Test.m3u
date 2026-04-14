@@ -13,6 +13,9 @@ https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 
 #EXTINF:-1 group-logo="https://i.imgur.com/E7lFwlD.png"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGcA1MM.png",ABC National Feed
+http://41.205.93.154/ABC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FM2PYtf.png",Boomerang US
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
@@ -28,7 +31,8 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-logo="",HBO USA
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-http://41.205.93.154/DISNEY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pZgjqUs.png",NickToons
+http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVFdbfV.png",Nickelodeon USA East Feed
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
