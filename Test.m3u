@@ -34,7 +34,39 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pZgjqUs.png",NickToons
 http://41.205.93.154/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVFdbfV.png",Nickelodeon USA East Feed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVFdbfV.png",Nickelodeon US East Feed
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-logo="",TBS
+http://41.205.93.154/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="",FOX NEWS
+http://41.205.93.154/FOX-NEWS/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon
+http://79.127.207.193/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.Network.us@East",Cartoon Network
+http://79.127.207.193/CartoonNetwork/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="DisneyChannel.jp@SD",Disney Channel JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
+#EXTINF:-1 tvg-id="DisneyJR.jp@SD",Disney Jr JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 tvg-id="Animax.jp@SD",Animax JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+EXTINF:-1 tvg-id="CartoonNetwork.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
+
+#EXTINF:-1 tvg-id="CCTV16.cn@HD",CCTV-16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+
 
 
